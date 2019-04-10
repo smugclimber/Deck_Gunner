@@ -10,5 +10,6 @@ Depends on your browser.
 ## Demo
 Check out the game if you like at:
 
-[Deck Gunner Game link](deckgunner.atomicnick.com)
-![DG Image](atomicnick.com/static/media/deck_gunner_title.90b5af71.png)
+[Deck Gunner site](http://deckgunner.atomicnick.com)
+
+![DG Image](http://atomicnick.com/static/media/deck_gunner_title.90b5af71.png)
